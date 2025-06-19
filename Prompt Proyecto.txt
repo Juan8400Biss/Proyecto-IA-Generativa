@@ -1,0 +1,22 @@
+Estoy realizando un curso de IA perteneciente a Talento Digital de la Junta de Extremadura en colaboración con la UNEX.
+Estamos viendo desde MCP´s, hasta la creación de agentes inteligentes sencillos usando SDK de OpenAI, o desarrollados con herramientas y frameworks tales como LangGraph, Chainlit, LangSmith, Tavily, LangGraph Studio.
+La formación viene desarrollada por el Profesor Juanan Pereira de la Universidad del Pais Vasco, que la tiene desarrollada en un documento con múltiples enlaces a Githubs, notebooks o videos de YouTube.
+
+Como final del curso, debemos desarrollar un proyecto , que yo lo quiero hacer en Windsurf, para el que nos ha proporcionado el enunciado de una forma detallada. 
+Como en el proyecto hay que desarrollar una aplicación web, nos ha pasado también el prompt para poder generarla.
+La intención que tengo es proporcionarte :
+1- Enunciado del Proyecto, en cuya parte final viene el propmt a usar para generar a app web
+2- El documento de Juanan del curso con sus enlaces (solamene si lo crees necesario u oportuno)
+
+Los pasos que te pido para que realices la implementación del proyecto en Python serían :
+1- Elaborar a modo de resumen y en español, un esquema con cada uno de los pasos a realizar , desarrollando tb cada uno de los subpasos. SI puede ser, sería interesante que lo desarrollaras en una especie de Grafo, si lo crees oportuno. Me gustaría que generes todo esto en un fichero para poderlo consultar frecuentemente y poderlo imprimir.
+2- Especificar tb las necesidades de sistema necesarias para poder implementar el proyecto . Me refiero a temas como son la creación del entorno virtual, posibles instalaciones necesarias que no tenga (si puedes revisa si están o no ya instaladas en el equipo), API-KEYS que necesito para poder acceder a aplicaciones,.....
+3- Una vez que tengamos el esquema con los pasos, yo te iría pidiendo poco a poco la implementación en Python de cada uno de los pasos que has indicado, hasta que tengamos el proyecto terminado y operativo
+
+No te inventes nada, ciñete al enunciado del Proyecto. SI encuentras algún punto de mejora, me lo indicas para poder hacerlo una vez que tengamos acabado el proyecto y plantearlo como posible mejora.
+
+En el proceso de implementación en Python, quieo un código bien estructurado y con comentarios claros y numerosos explicando tanto los pasos generales, más específicos y el propio código del programa.
+
+Te repito que te puedo dar el enlace de la documentación del curso por si te puede servir. Dímelo si lo crees oportuno
+ 
+Esto es todo. ¿ Dime que te parece ? ¿si necesitas alguna información inicial mas ? o si empezamos ya con la elaboración inicial del esquema y a partir de ahí , te pediría la implementación del código paso por paso.
