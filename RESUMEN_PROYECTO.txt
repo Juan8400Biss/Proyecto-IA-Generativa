@@ -1,0 +1,40 @@
+# RESUMEN DEL PROYECTO: Agente de Curación de Contenidos
+
+## ESTRUCTURA DEL PROYECTO
+```
+proyecto/
+├── agent/                 # Código del agente IA
+├── backend/              # API y base de datos (Flask + SQLite)
+└── frontend/             # Interfaz web (HTML/CSS/JS)
+```
+
+## HOJA DE RUTA
+1. 🔧 Configuración Inicial
+   - Crear requirements.txt
+   - Configurar variables de entorno
+   - Estructurar módulos
+
+2. 📡 Módulo de Monitoreo
+   - Conexión Telegram/WhatsApp
+   - Extracción de URLs
+   - Manejo de actualizaciones
+
+3. 🧠 Procesamiento
+   - Extracción de contenido
+   - Resúmenes con IA
+   - Manejo de imágenes
+
+## PRÓXIMOS PASOS
+1. Configurar repositorio Git
+2. Implementar monitoreo de mensajes
+3. Desarrollar procesamiento de contenido
+
+## ENLACES IMPORTANTES
+- Documentación Flask: https://flask.palletsprojects.com/
+- Documentación SQLAlchemy: https://www.sqlalchemy.org/
+- Guía de Markdown: https://www.markdownguide.org/
+
+## NOTAS ADICIONALES
+- Proyecto iniciado el 19/06/2024
+- Estado actual: Fase inicial de desarrollo
+- Contacto: [Tu email o usuario de GitHub]
